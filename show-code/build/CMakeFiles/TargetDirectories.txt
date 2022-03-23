@@ -1,0 +1,3 @@
+/home/person/Документы/Solution/build/CMakeFiles/rebuild_cache.dir
+/home/person/Документы/Solution/build/CMakeFiles/edit_cache.dir
+/home/person/Документы/Solution/build/CMakeFiles/Exe.dir

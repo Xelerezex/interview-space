@@ -1,0 +1,1 @@
+clang++   -std=c++17 -pthread -Og -ggdb3 -pipe -O2 -Wall -Werror -Wextra   CMakeFiles/Exe.dir/main.cpp.o CMakeFiles/Exe.dir/token.cpp.o CMakeFiles/Exe.dir/database.cpp.o CMakeFiles/Exe.dir/date.cpp.o CMakeFiles/Exe.dir/node.cpp.o CMakeFiles/Exe.dir/condition_parser.cpp.o CMakeFiles/Exe.dir/tests.cpp.o  -o Exe 
