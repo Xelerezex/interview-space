@@ -833,7 +833,7 @@ unsigned int compzero = 0xFFFF;       /*1’s complement of zero */
 
 В машинах, где ```int``` не равен 16-и битам, это будет неправильно. Следует записать так:
 
-```
+```c
 unsigned int compzero = ~0;
 ```
 
