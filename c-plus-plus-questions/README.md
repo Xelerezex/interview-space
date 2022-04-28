@@ -1070,7 +1070,7 @@ union code
 Конкретный размер выделенной памяти будет зависеть от системы и реализации, но в общем случае это будет
 выглядеть примерно следующим образом:
 
-![alt-текст](https://github.com/Xelerezex/interview-space/tree/main/c-plus-plus-questions/img/union.png)
+![union](https://github.com/Xelerezex/interview-space/blob/main/c-plus-plus-questions/img/union.png)
 
 В этом случае объединение сode на большинстве платформ будет занимать 4 байта. Длина элементов, как
 здесь, может быть разной, и в этом случае размер объединения вычисляется по наибольшему элементу.
